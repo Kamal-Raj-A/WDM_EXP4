@@ -1,5 +1,5 @@
 # EX4 Implementation of Cluster and Visitor Segmentation for Navigation patterns
-## DATE: 03-08-2026
+## DATE: 04-08-2026
 ## REG NO: 212224040023
 ## AIM: To implement Cluster and Visitor Segmentation for Navigation patterns in Python.
 ## Description:
